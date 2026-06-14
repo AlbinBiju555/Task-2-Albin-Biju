@@ -6,7 +6,7 @@
 This file serves as the centralized backend engine for the **Vaccination Tracker** web application built using **Python Flask** and connected to a **MySQL** relational database.
 ---
 
-## 🛠️ Technology Stack & Connectors
+##  Technology Stack & Connectors
 * **Framework Backend:** Flask 3.x (Python Micro-framework)
 * **Relational Database Engine:** MySQL Server
 * **Database Driver Connector:** `flask_mysqldb`
